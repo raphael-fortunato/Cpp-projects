@@ -1,9 +1,9 @@
-#Conditional-Gan in C++
+# Conditional-Gan in C++
 
 Two implementations of a Conditonal Generative Adverserial Network, 
 one with convolution and one with fully connected layers.
 
-#Dependencies 
+# Dependencies 
 pytorch C++ frontend
 opencv
 
@@ -19,7 +19,8 @@ $ make
 
 where `/path/to/libtorch` should be the path to the unzipped *LibTorch*
 
-#Results
-![image] https://github.com/raphael-fortunato/Cpp-projects/blob/master/Condition%20Generative%20Adversarial%20Networks/Visualisation/Conditional_gan-epoch300.png
+# Results
+  Conditional Gan after 300 epochs
+! [image] (https://github.com/raphael-fortunato/Cpp-projects/blob/master/Condition%20Generative%20Adversarial%20Networks/Visualisation/Conditional_gan-epoch300.png)
 
 

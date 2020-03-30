@@ -1,0 +1,10 @@
+Tensor/*
+.vscode/*
+/Condition Generative Adversarial Networks/build
+/Condition Generative Adversarial Networks/Debug
+/Condition Generative Adversarial Networks/Release
+/Condition Generative Adversarial Networks/SavedModels
+/Condition Generative Adversarial Networks/nbprojects
+/Condition Generative Adversarial Networks/.vscode
+
+

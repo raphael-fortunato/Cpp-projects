@@ -4,8 +4,8 @@ Two implementations of a Conditonal Generative Adverserial Network,
 one with convolution and one with fully connected layers.
 
 # Dependencies 
-pytorch C++ frontend
-opencv
+- pytorch C++ frontend
+- opencv
 
 To build the code, run the following commands from your terminal:
 

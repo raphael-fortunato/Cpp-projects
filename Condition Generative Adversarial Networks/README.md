@@ -22,6 +22,6 @@ where `/path/to/libtorch` should be the path to the unzipped *LibTorch*
 # Results
   Conditional Gan after 300 epochs:
   
-![image] (https://github.com/raphael-fortunato/Cpp-projects/blob/master/Condition%20Generative%20Adversarial%20Networks/Visualisation/Conditional_gan-epoch300.png)
+![alt text](https://github.com/raphael-fortunato/Cpp-projects/blob/master/Condition%20Generative%20Adversarial%20Networks/Visualisation/Conditional_gan-epoch300.png)
 
 

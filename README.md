@@ -1,2 +1,2 @@
 # Cpp-project
-Conditional GAN
+1. Conditional GAN and DCGAN in cpp using pytorch.

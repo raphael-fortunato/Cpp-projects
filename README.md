@@ -1,2 +1,2 @@
-##Cpp-projects
-*Conditional GAN
+#Cpp-projects
+- Conditional GAN

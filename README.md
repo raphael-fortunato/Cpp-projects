@@ -1,2 +1,2 @@
 # Cpp-projects
-- Conditional GAN
+1.Conditional GAN
